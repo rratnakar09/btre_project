@@ -2,7 +2,8 @@
 
 A real estate application using Django with an admin area to manage resources including property listings, realtors and contact inquiries.
 I have used  
-* basic html/css Bootstrap 4 theme 
+* basic html/css 
+* bootstrap 4 theme 
 * python
 * django web framework
 * postgres data base

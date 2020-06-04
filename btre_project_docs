@@ -1,9 +1,0 @@
-Link to access and install postgres: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
-
-
-Use to update password in ALTER USER postgres PASSWORD 'postgres'
-User: postgres
-New PWD: postgres
-
-
-## For databse files schemas refer schemas.txt 

@@ -8,8 +8,6 @@ I have used
 * django web framework
 * postgres data base
 
-### Website deployed on Digital Ocean: <a href="http://134.209.149.48/">link</a>
-
 
 ## Resources and tutorials:</br>
 Python Django Dev To Deployment</br>
